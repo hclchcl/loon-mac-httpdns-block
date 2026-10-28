@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 256 256" role="img">
+<title>HTTPDNS 拦截</title>
+<desc>Original minimal icon by hclchcl, 2026. Editable SVG source.</desc>
+<rect x="8" y="8" width="240" height="240" rx="56" fill="#B45336"/>
+<g fill="none" stroke="#FFFFFF" stroke-width="10"><circle cx="128" cy="128" r="72"/><ellipse cx="128" cy="128" rx="31" ry="72"/><path d="M56 128h144"/></g><path d="m75 181 106-106" stroke="#B45336" stroke-width="26" stroke-linecap="round"/><path d="m75 181 106-106" stroke="#FFFFFF" stroke-width="12" stroke-linecap="round"/>
+</svg>

@@ -1,3 +1,5 @@
+<img src="icon.png" width="88" height="88" alt="HTTPDNS 拦截图标">
+
 # Mac HTTPDNS 拦截器
 
 阻止清单内 HTTPDNS 域名、常见 HTTP(S) 端口上的硬编码解析 IP，并补充明文 HTTP 路径拦截。
@@ -52,3 +54,9 @@ HTTPS 路径复写和 Map Local 没有纳入；专用域名和清单内 IP 的�
 - [Mac 广告平台拦截器](https://github.com/hclchcl/loon-mac-ad-platforms-block)
 - [Mac 应用与网页广告过滤器](https://github.com/hclchcl/loon-mac-ad-filter)
 - [Mac DNS 防泄漏](https://github.com/hclchcl/loon-mac-dns-guard)
+
+## 名称与图标
+
+插件文件已内置 `#!name` 和 `#!icon`。请使用插件原始直链导入；名称与图标由 Loon 读取文件头信息。已导入的插件可先更新；本地自定义名称或图标可能继续保留，需要时在导入界面使用默认信息。
+
+图标为本项目原创，提供 [PNG](icon.png) 和可编辑 [SVG](icon.svg)。本次只更新展示信息与图标资源，未进行 Loon 导入或联网测试。

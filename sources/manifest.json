@@ -1,5 +1,5 @@
 {
-  "release": "1.0.0",
+  "release": "1.0.1",
   "date": "2026-10-28",
   "target": "Loon for Mac 0.5.0 (1009)",
   "runtime_tested": false,
@@ -21,8 +21,18 @@
   },
   "outputs": {
     "Loon-Mac-HTTPDNS-Block.plugin": {
-      "sha256": "d232f622ea62b7304f5dfb5398f21307024e6759540c98fe24bd7ade8164b9a2",
-      "bytes": 10946
+      "sha256": "59540c4af2b8dc3d1cec6d2a413c96e8a7db7240ea7989bf0c56fb707c81d455",
+      "bytes": 11034
     }
+  },
+  "display_icon": {
+    "path": "icon.png",
+    "source": "icon.svg",
+    "size": [
+      256,
+      256
+    ],
+    "author": "hclchcl",
+    "date": "2026-10-28"
   }
 }
