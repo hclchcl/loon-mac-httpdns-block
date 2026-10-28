@@ -1,0 +1,28 @@
+{
+  "release": "1.0.0",
+  "date": "2026-10-28",
+  "target": "Loon for Mac 0.5.0 (1009)",
+  "runtime_tested": false,
+  "original_keli_code_copied": false,
+  "repository": "hclchcl/loon-mac-httpdns-block",
+  "sources": [
+    {
+      "repository": "VirgilClyne/GetSomeFries",
+      "commit": "b4aa767bcbc4d39bea5b549a3277a00517891d1e",
+      "path": "sgmodule/HTTPDNS.Block.sgmodule",
+      "git_blob_sha": "1fe7e056fe4f3db500823de44e9d1edd66f74b93",
+      "license": "GPL-3.0-only",
+      "url": "https://github.com/VirgilClyne/GetSomeFries/blob/b4aa767bcbc4d39bea5b549a3277a00517891d1e/sgmodule/HTTPDNS.Block.sgmodule"
+    }
+  ],
+  "counts": {
+    "rules": 81,
+    "http_rewrites": 42
+  },
+  "outputs": {
+    "Loon-Mac-HTTPDNS-Block.plugin": {
+      "sha256": "d232f622ea62b7304f5dfb5398f21307024e6759540c98fe24bd7ade8164b9a2",
+      "bytes": 10946
+    }
+  }
+}
